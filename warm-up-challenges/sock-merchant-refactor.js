@@ -43,7 +43,6 @@ function sockMerchant(n, ar) {
         }
 
         count = Math.floor(count/2);
-
         pairs += count;
         sockCounted.push(theSock);
     }
